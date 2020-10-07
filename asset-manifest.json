@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/FriendsQuotesGame/static/css/main.1db19099.chunk.css",
-    "main.js": "/FriendsQuotesGame/static/js/main.dd3b3101.chunk.js",
-    "main.js.map": "/FriendsQuotesGame/static/js/main.dd3b3101.chunk.js.map",
+    "main.js": "/FriendsQuotesGame/static/js/main.e0b67519.chunk.js",
+    "main.js.map": "/FriendsQuotesGame/static/js/main.e0b67519.chunk.js.map",
     "runtime-main.js": "/FriendsQuotesGame/static/js/runtime-main.8074728c.js",
     "runtime-main.js.map": "/FriendsQuotesGame/static/js/runtime-main.8074728c.js.map",
     "static/js/2.4eabbe6c.chunk.js": "/FriendsQuotesGame/static/js/2.4eabbe6c.chunk.js",
     "static/js/2.4eabbe6c.chunk.js.map": "/FriendsQuotesGame/static/js/2.4eabbe6c.chunk.js.map",
     "index.html": "/FriendsQuotesGame/index.html",
-    "precache-manifest.28eddb30836ce59819327c1c99d518dc.js": "/FriendsQuotesGame/precache-manifest.28eddb30836ce59819327c1c99d518dc.js",
+    "precache-manifest.aa86b2052b03ec986d3a982652f5722a.js": "/FriendsQuotesGame/precache-manifest.aa86b2052b03ec986d3a982652f5722a.js",
     "service-worker.js": "/FriendsQuotesGame/service-worker.js",
     "static/css/main.1db19099.chunk.css.map": "/FriendsQuotesGame/static/css/main.1db19099.chunk.css.map",
     "static/js/2.4eabbe6c.chunk.js.LICENSE.txt": "/FriendsQuotesGame/static/js/2.4eabbe6c.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.8074728c.js",
     "static/js/2.4eabbe6c.chunk.js",
     "static/css/main.1db19099.chunk.css",
-    "static/js/main.dd3b3101.chunk.js"
+    "static/js/main.e0b67519.chunk.js"
   ]
 }
