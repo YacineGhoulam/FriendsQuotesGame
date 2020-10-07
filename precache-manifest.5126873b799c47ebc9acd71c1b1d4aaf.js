@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f66ae0b4295f4129c2ca66c210ca6952",
+    "revision": "9ee2293a5a4cef470eef72341549ff3c",
     "url": "/FriendsQuotesGame/index.html"
   },
   {
-    "revision": "ecdef2f862811143bb9d",
+    "revision": "f35d3f96a7e446ed960a",
     "url": "/FriendsQuotesGame/static/css/main.1db19099.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FriendsQuotesGame/static/js/2.4eabbe6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ecdef2f862811143bb9d",
-    "url": "/FriendsQuotesGame/static/js/main.e0b67519.chunk.js"
+    "revision": "f35d3f96a7e446ed960a",
+    "url": "/FriendsQuotesGame/static/js/main.42d17041.chunk.js"
   },
   {
     "revision": "c57bc381e612451470b4",
